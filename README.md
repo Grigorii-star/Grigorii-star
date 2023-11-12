@@ -19,7 +19,7 @@
 			<img src="https://img.icons8.com/doodle/40/000000/facebook--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/rarog.grigorii/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="@RarogGrigorii">
+        <a style="margin-left: 10px;" target="_blank" href="https://t.me/RarogGrigorii">
 			<img src="https://img.icons8.com/doodle/40/000000/telegram--v2.png"></a>
       </div>
 
