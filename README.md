@@ -6,7 +6,7 @@
 </a>
 
 
-- 🤝 I’m available for suggestions.
+- 🤝 I’m available for hiring.
 
 - 📫 How to reach me **rarog.grigoriii@gmail.com**
 
